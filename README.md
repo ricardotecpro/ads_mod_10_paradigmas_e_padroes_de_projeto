@@ -1,8 +1,8 @@
-# **Módulo 16: Paradigmas de Programação**
+# **Módulo 17: Paradigmas de Programação**
 
 ## Introdução ao Módulo
 
-Bem-vindo ao Módulo 16\! Até agora, você aprendeu a escrever código que funciona. Neste módulo, vamos dar um passo atrás para entender *como* pensamos sobre a estrutura do código. Um paradigma de programação é um estilo fundamental, uma "escola de pensamento" que molda a forma como resolvemos problemas e organizamos nossas soluções.
+Bem-vindo ao Módulo 17\! Até agora, você aprendeu a escrever código que funciona. Neste módulo, vamos dar um passo atrás para entender *como* pensamos sobre a estrutura do código. Um paradigma de programação é um estilo fundamental, uma "escola de pensamento" que molda a forma como resolvemos problemas e organizamos nossas soluções.
 
 Compreender os diferentes paradigmas fará de você um programador mais versátil, capaz de escolher a ferramenta certa para o trabalho certo e de entender por que suas linguagens favoritas funcionam da maneira que funcionam.
 
