@@ -1,7 +1,5 @@
 # Project Index
 
-Pesquisar:
-
 ## Design Patterns (`padroes-projeto`)
 - [Singleton](./padroes-projeto/singleton.md)
 - [Factory](./padroes-projeto/factory.md)
