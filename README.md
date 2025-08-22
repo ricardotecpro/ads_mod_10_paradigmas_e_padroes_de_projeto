@@ -120,10 +120,10 @@ graph TD;
     A --> C[Funcional];
     A --> D[Procedural];
     
-    B -- "Problemas comuns de design resolvidos por" --> E{Padrões de Projeto (GoF)};
-    E -- "divididos em" --> F[Criacionais<br/>(Singleton, Factory)];
-    E -- "divididos em" --> G[Estruturais<br/>(Adapter, Decorator)];
-    E -- "divididos em" --> H[Comportamentais<br/>(Observer, Strategy)];
+    B -- "Problemas comuns de design resolvidos por" --> E{"Padrões de Projeto (GoF)"};
+    E -- "divididos em" --> F["Criacionais<br/>(Singleton, Factory)"];
+    E -- "divididos em" --> G["Estruturais<br/>(Adapter, Decorator)"];
+    E -- "divididos em" --> H["Comportamentais<br/>(Observer, Strategy)"];
     
     style E fill:#ccf,stroke:#333,stroke-width:2px
 ```
@@ -143,3 +143,34 @@ Enquanto os Padrões de Projeto resolvem problemas de design de classes e objeto
       - **Uso**: Amplamente utilizado em frameworks web como Ruby on Rails, Django e Laravel.
   - **Microservices**: Estrutura uma aplicação como uma coleção de pequenos serviços independentes e fracamente acoplados. Cada serviço é responsável por uma capacidade de negócio específica e pode ser desenvolvido, implantado e escalado de forma independente.
   - **Cliente-Servidor**: O padrão fundamental da web, onde um *cliente* (como um navegador) solicita recursos de um *servidor*, que os processa e devolve.
+
+---
+
+## 📚 Artigos e Tópicos Aprofundados
+
+Este repositório contém uma coleção de artigos que aprofundam os conceitos apresentados.
+
+### Paradigmas de Programação
+
+*   **[Orientação a Objetos em Java](./topicos/paradigma_oo.md)**: Um tutorial prático sobre os pilares da POO com exemplos em Java.
+*   **[Paradigma Imperativo](./topicos/paradigma_imperativo.md)**: Uma análise do paradigma mais tradicional, suas estruturas e subparadigmas.
+*   **[Paradigma Funcional (Básico)](./topicos/paradigma_funcional_1.md)**: Introdução aos conceitos de imutabilidade, funções puras e alta ordem.
+*   **[Paradigma Funcional (Avançado)](./topicos/paradigma_funcional_2.md)**: Exemplos práticos de recursão, composição e avaliação preguiçosa.
+*   **[Paradigma de Programação Lógica](./topicos/programacao_logica.md)**: Explore a programação baseada em fatos e regras com exemplos em Prolog.
+*   **[Famílias de Linguagens de Programação](./topicos/paradigmas_de_programacao.md)**: Uma classificação das linguagens por paradigma, sintaxe e aplicação.
+
+### Padrões de Projeto e Arquitetura
+
+*   **[Guia Completo: Padrões, Arquiteturas e Boas Práticas](./padroes-projeto/arquiteturas.md)**: Um guia sobre padrões como Factory, Singleton, Observer, e arquiteturas como Microservices e DDD.
+*   **[Guia Avançado: Padrões, Testes e Tópicos Complementares](./padroes-projeto/padroes_de_projeto2.md)**: Expande os conceitos com seções sobre testes, banco de dados e tópicos avançados como CI/CD e Cloud.
+*   **[Foco em SOLID e Spring MVC](./padroes-projeto/design_patterns_solid_spring_mvc.md)**: Como aplicar os princípios SOLID e o padrão Strategy em conjunto com o Spring MVC.
+
+---
+
+## ✉️ Contatos
+
+* **[Contatos](https://ricardotecpro.github.io/contatos.html)**: Contatos / Contacts
+
+---
+
+### 📌 [ricardotecpro.github.io](https://ricardotecpro.github.io/)
